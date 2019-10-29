@@ -1,3 +1,11 @@
+# Tooling Directory
+
+Tooling directory includes a list of tools (such as open source software) which
+are developed or/and used by CSIRTs in the scope of the CSIRTs network. The directory
+is split in 3 different categories: open source tools developed and maintained by
+the CSIRTs, public online services provided by the CSIRTs and a category of open source tools used.
+
+The goal is to provide an overview of all the tools available and used within the CSIRTs network.
 
 # Open Source Tools Developed, Maintained and Used by members of the CSIRTs network
 
@@ -9,8 +17,8 @@
 |cve-search|CIRCL|[https://github.com/cve-search/](https://github.com/cve-search/)|
 |IntelMQ|CERT.at|[https://github.com/certtools/intelmq](https://github.com/certtools/intelmq])|
 |n6|CERT.pl|[https://github.com/CERT-Polska/n6](https://github.com/CERT-Polska/n6)|
-|TheHive|BDF CERT|[https://github.com/TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)|
-|Cortex|BDF CERT|[https://github.com/TheHive-Project/Cortex-Analyzers/](https://github.com/TheHive-Project/Cortex-Analyzers/)|
+|TheHive|BDF CERT/CERT-EU|[https://github.com/TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)|
+|Cortex|BDF CERT/CERT-EU|[https://github.com/TheHive-Project/Cortex-Analyzers/](https://github.com/TheHive-Project/Cortex-Analyzers/)|
 |eml-parser|GOVCERT.LU|[https://github.com/GOVCERT-LU/eml_parser](https://github.com/GOVCERT-LU/eml_parser)|
 |GCNotify|GOVCERT.LU|[https://github.com/GOVCERT-LU/GCNotify](https://github.com/GOVCERT-LU/GCNotify)|
 |bmc-tools|ANSSI-FR|[https://github.com/ANSSI-FR/bmc-tools](https://github.com/ANSSI-FR/bmc-tools)|
@@ -32,4 +40,10 @@
 |Software|Provider|Location|
 |---|---|---|
 |RTIR|BestPractical|[https://github.com/bestpractical/rtir](https://github.com/bestpractical/rtir)|
+
+
+# Contribute
+
+The tooling directory is maintained by the Tooling WG of the CSIRT network. If you want to contribute by extending
+the list, fix issues or provide feedback, feel free to open an issue or do a pull-request on this repository.
 

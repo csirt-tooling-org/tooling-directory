@@ -110,6 +110,18 @@
     ]
   },
   {
+    "name": "GCNotify",
+    "csirt": [
+      "GOVCERT.LU"
+    ],
+    "location": [
+      "https://github.com/GOVCERT-LU/GCNotify"
+    ],
+    "repository": [
+      "https://github.com/GOVCERT-LU/GCNotify"
+    ]
+  },
+  {
     "name": "bmc-tools",
     "csirt": [
       "ANSSI-FR"
