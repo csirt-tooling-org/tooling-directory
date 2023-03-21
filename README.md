@@ -31,6 +31,7 @@ The goal is to provide an overview of all the tools available and used within th
 |Convey|CSIRT.cz|[https://github.com/CZ-NIC/convey](https://github.com/CZ-NIC/convey)|
 |Python RT API|CSIRT.cz|[https://github.com/CZ-NIC/python-rt](https://github.com/CZ-NIC/python-rt)
 |DO Portal (contact management portal)|CERT.eu / CERT.at|[https://github.com/certeu/do-portal](https://github.com/certeu/do-portal) / [https://github.com/certat/do-portal](https://github.com/certat/do-portal)|
+|Taranis NG|SK-CERT|[https://github.com/SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG)|
 
 
 # Public Online Services Offered by members of the CSIRTs network
