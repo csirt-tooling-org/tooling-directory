@@ -37,10 +37,13 @@ The goal is to provide an overview of all the tools available and used within th
 
 |Service|CSIRT lead|Location|
 |---|---|---|
+|contacts.cert.at|CERT.at|[https://contacts.cert.at/](https://contacts.cert.at/)|
 |Cuckoo Sandbox|CERT.EE|[https://cuckoo.cert.ee/](https://cuckoo.cert.ee/)|
 |CVE Search|CIRCL|[https://cve.circl.lu/](https://cve.circl.lu/)|
+|LookyLoo (analyse website)|CIRCL|[https://lookyloo.circl.lu](https://lookyloo.circl.lu)|
+|Pandora (file analysis)|CIRCL|[https://pandora.circl.lu/](https://pandora.circl.lu)|
 |RPKI Chronicle|CSIRT.cz|[https://rpki-chronicle.csirt.cz/](https://rpki-chronicle.csirt.cz/)|
-|contacts.cert.at|CERT.at|[https://contacts.cert.at/](https://contacts.cert.at/)|
+|Typosquatting finder|CIRCL|[https://typosquatting-finder.circl.lu/](https://typosquatting-finder.circl.lu/)|
 
 # Open Source Tools Used by the members of the CSIRTs network
 
