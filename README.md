@@ -29,7 +29,7 @@ The goal is to provide an overview of all the tools available and used within th
 |Envelope|CSIRT.cz|[https://github.com/CZ-NIC/envelope](https://github.com/CZ-NIC/envelope)|
 |Convey|CSIRT.cz|[https://github.com/CZ-NIC/convey](https://github.com/CZ-NIC/convey)|
 |Python RT API|CSIRT.cz|[https://github.com/CZ-NIC/python-rt](https://github.com/CZ-NIC/python-rt)
-|DO Portal (contact management portal)|CERT.eu / CERT.at|[https://github.com/certeu/do-portal](https://github.com/certeu/do-portal) / [https://github.com/certat/do-portal](https://github.com/certat/do-portal)|
+|DO Portal (contact management portal)|CERT.eu / CERT.at|[https://github.com/certat/do-portal](https://github.com/certat/do-portal)|
 |Taranis NG|SK-CERT|[https://github.com/SK-CERT/Taranis-NG](https://github.com/SK-CERT/Taranis-NG)|
 
 
@@ -42,7 +42,7 @@ The goal is to provide an overview of all the tools available and used within th
 |CVE Search|CIRCL|[https://cve.circl.lu/](https://cve.circl.lu/)|
 |LookyLoo (analyse website)|CIRCL|[https://lookyloo.circl.lu](https://lookyloo.circl.lu)|
 |Pandora (file analysis)|CIRCL|[https://pandora.circl.lu/](https://pandora.circl.lu)|
-|RPKI Chronicle|CSIRT.cz|[https://rpki-chronicle.csirt.cz/](https://rpki-chronicle.csirt.cz/)|
+|RPKI Chronicle|CSIRT.cz|[https://github.com/CZ-NIC/RPKI-chronicle](https://github.com/CZ-NIC/RPKI-chronicle)|
 |Typosquatting finder|CIRCL|[https://typosquatting-finder.circl.lu/](https://typosquatting-finder.circl.lu/)|
 
 # Open Source Tools Used by the members of the CSIRTs network
