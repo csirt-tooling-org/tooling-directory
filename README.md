@@ -19,8 +19,6 @@ The goal is to provide an overview of all the tools available and used within th
 |IntelMQ|CERT.at|[https://github.com/certtools/intelmq](https://github.com/certtools/intelmq])|
 |FollowTcpStream|CERT.at|[https://github.com/certat/FollowTcpStream](https://github.com/certat/FollowTcpStream)|
 |n6|CERT.pl|[https://github.com/CERT-Polska/n6](https://github.com/CERT-Polska/n6)|
-|TheHive|BDF CERT/CERT-EU|[https://github.com/TheHive-Project/TheHive](https://github.com/TheHive-Project/TheHive)|
-|Cortex|BDF CERT/CERT-EU|[https://github.com/TheHive-Project/Cortex-Analyzers/](https://github.com/TheHive-Project/Cortex-Analyzers/)|
 |eml-parser|GOVCERT.LU|[https://github.com/GOVCERT-LU/eml_parser](https://github.com/GOVCERT-LU/eml_parser)|
 |GCNotify|GOVCERT.LU|[https://github.com/GOVCERT-LU/GCNotify](https://github.com/GOVCERT-LU/GCNotify)|
 |bmc-tools|ANSSI-FR|[https://github.com/ANSSI-FR/bmc-tools](https://github.com/ANSSI-FR/bmc-tools)|
