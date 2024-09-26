@@ -43,7 +43,8 @@ The goal is to provide an overview of all the tools available and used within th
 |---|---|---|
 |contacts.cert.at|CERT.at|[https://contacts.cert.at/](https://contacts.cert.at/)|
 |Cuckoo Sandbox|CERT.EE|[https://cuckoo.cert.ee/](https://cuckoo.cert.ee/)|
-|CVE Search|CIRCL|[https://cve.circl.lu/](https://cve.circl.lu/)|
+|Vulnerability Lookup|CIRCL|[https://vulnerability.circl.lu/](https://vulnerability.circl.lu/)|
+|Hashlookup|CIRCL|[https://hashlookup.circl.lu/](https://hashlookup.circl.lu/)|
 |LookyLoo (analyse website)|CIRCL|[https://lookyloo.circl.lu](https://lookyloo.circl.lu)|
 |Pandora (file analysis)|CIRCL|[https://pandora.circl.lu/](https://pandora.circl.lu)|
 |RPKI Chronicle|CSIRT.cz|[https://github.com/CZ-NIC/RPKI-chronicle](https://github.com/CZ-NIC/RPKI-chronicle)|
