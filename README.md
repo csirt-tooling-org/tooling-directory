@@ -16,6 +16,7 @@ The goal is to provide an overview of all the tools available and used within th
 |BGP Ranking|CIRCL|[https://github.com/D4-project/BGP-Ranking](https://github.com/D4-project/BGP-Ranking)|
 |vulnerability-lookup|CIRCL|[https://github.com/vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup)|
 |Cerebrate|CIRCL|[https://github.com/cerebrate-project/cerebrate](https://github.com/cerebrate-project/cerebrate)|
+|flowintel|CIRCL|[https://github.com/flowintel/flowintel](https://github.com/flowintel/flowintel)|
 |IntelMQ|CERT.at|[https://github.com/certtools/intelmq](https://github.com/certtools/intelmq])|
 |FollowTcpStream|CERT.at|[https://github.com/certat/FollowTcpStream](https://github.com/certat/FollowTcpStream)|
 |n6|CERT.PL|[https://github.com/CERT-Polska/n6](https://github.com/CERT-Polska/n6)|
